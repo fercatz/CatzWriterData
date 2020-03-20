@@ -1,0 +1,18 @@
+[
+ {
+  "mazo": "mazo 4",
+  "cantidad": "1",
+  "numero": "4B",
+  "titulo": "SÍNTESIS",
+  "descripcion": "Una frase de 3 a 5 palabras."
+ },
+ "Esto está mal",
+ {
+  "mazo": "mazo 2",
+  "cantidad": "2",
+  "numero": "2B",
+  "titulo": "PENSAMIENTO",
+  "descripcion": "Lo que pasa por la cabeza de un personaje, con su punto de vista, emociones o contradicciones."
+ },
+ "asfddf"
+]
